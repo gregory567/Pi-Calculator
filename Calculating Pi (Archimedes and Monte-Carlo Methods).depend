@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711705762 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\calculating pi (archimedes and monte-carlo methods)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+
